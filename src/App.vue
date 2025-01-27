@@ -284,7 +284,7 @@ export default {
 }
 
 .auth-tabs button:hover {
-  background-color: #aaaaaa; /* Darker blue on hover */
+  background-color: #aaaaaa; 
 }
 
 .auth-tabs button.active {
